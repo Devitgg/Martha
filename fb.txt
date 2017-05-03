@@ -1,1 +1,0 @@
-{"object":"page","entry":[{"id":"875175779292224","time":1493699037465,"messaging":[{"sender":{"id":"1489720247726494"},"recipient":{"id":"875175779292224"},"timestamp":1493699037425,"message":{"mid":"mid.$cAANBA4yNUs9h-KvQ8Vbx2X5PBts_","seq":298783,"text":"Hey, how are you?"}}]}]}
